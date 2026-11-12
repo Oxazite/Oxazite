@@ -5,6 +5,15 @@ Exploring Applied AI, Autonomous Systems, and Software Engineering.
 
 ---
 
+### 🎯 Interests
+
+- **Applied AI & LLMs:** Context retrieval, language reasoning, and agentic workflows.
+- **Multimodal & Speech:** Audio processing and practical speech recognition.
+- **Software Engineering:** Client-side tools, browser extensions, and automation pipelines.
+- **Core Computer Science:** Data structures, algorithmic problem solving, and system debugging.
+
+---
+
 ### 🏆 Competitions & Hackathons
 
 | Event | Focus | Overview | Details |

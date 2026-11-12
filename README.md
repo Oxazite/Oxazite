@@ -26,29 +26,62 @@
 <details open>
   <summary><h2>🏆 Competitions & Hackathons</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/Oxazite/zalo-ai-challenge-2026"><img width="380" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Oxazite&repo=zalo-ai-challenge-2026&theme=react&bg_color=1F222E&title_color=38BDF8&hide_border=true&icon_color=38BDF8" alt="zalo-ai-challenge-2026"/></a>
-    <a href="https://github.com/Oxazite/hack-a-venture-2026"><img width="380" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Oxazite&repo=hack-a-venture-2026&theme=react&bg_color=1F222E&title_color=38BDF8&hide_border=true&icon_color=38BDF8" alt="hack-a-venture-2026"/></a>
-    <a href="https://github.com/Oxazite/ai-for-business-innovation"><img width="380" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Oxazite&repo=ai-for-business-innovation&theme=react&bg_color=1F222E&title_color=38BDF8&hide_border=true&icon_color=38BDF8" alt="ai-for-business-innovation"/></a>
-  </p>
-
-  | Event | Focus | Official Portal |
-  | :--- | :--- | :--- |
-  | **Zalo AI Challenge 2026** | Relational Data Reasoning & Speech Processing | [**challenge.zalo.ai**](https://challenge.zalo.ai/) ↗ |
-  | **RMIT Hack-A-Venture 2026** | Venture Innovation & Language Modeling | [**rmithackaventure.com**](http://rmithackaventure.com/) ↗ |
-  | **AI for Business Innovation** | Enterprise GenAI & Multi-Agent Framework | [**LikeLion AI4BIZ Portal**](https://app.notion.com/p/likelion/AI-FOR-BUSINESS-INNOVATION-3f744860a4f480ab920ddb3911a25c21) ↗ |
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/Oxazite/zalo-ai-challenge-2026">zalo-ai-challenge-2026</a>
+        </h3>
+        <p>Systems and architecture showcase for Zalo AI Challenge 2026 (Track 1 & Track 2).</p>
+        <p>
+          <a href="https://challenge.zalo.ai/"><img src="https://img.shields.io/badge/Portal-challenge.zalo.ai-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portal"/></a>
+          <img src="https://img.shields.io/badge/Focus-Data%20%26%20Speech-10b981?style=flat-square" alt="Focus"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="left">
+          <a href="https://github.com/Oxazite/hack-a-venture-2026">hack-a-venture-2026</a>
+        </h3>
+        <p>AI venture innovation and cross-lingual NLP showcase for RMIT Hack-A-Venture 2026.</p>
+        <p>
+          <a href="http://rmithackaventure.com/"><img src="https://img.shields.io/badge/Portal-rmithackaventure.com-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Portal"/></a>
+          <img src="https://img.shields.io/badge/Focus-Venture%20AI-10b981?style=flat-square" alt="Focus"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" colspan="2">
+        <h3 align="left">
+          <a href="https://github.com/Oxazite/ai-for-business-innovation">ai-for-business-innovation</a>
+        </h3>
+        <p>Enterprise multi-agent framework showcase for AI For Business Innovation (K-Tech / LikeLion).</p>
+        <p>
+          <a href="https://app.notion.com/p/likelion/AI-FOR-BUSINESS-INNOVATION-3f744860a4f480ab920ddb3911a25c21"><img src="https://img.shields.io/badge/Portal-LikeLion%20AI4BIZ-ea580c?style=flat-square&logo=notion&logoColor=white" alt="Portal"/></a>
+          <img src="https://img.shields.io/badge/Focus-Enterprise%20GenAI-10b981?style=flat-square" alt="Focus"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details open>
   <summary><h2>🛠️ Featured Projects</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/Oxazite/messenger-media-manager"><img width="380" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=Oxazite&repo=messenger-media-manager&theme=react&bg_color=1F222E&title_color=38BDF8&hide_border=true&icon_color=38BDF8" alt="messenger-media-manager"/></a>
-  </p>
-
-  - **[Messenger Media Manager](https://github.com/Oxazite/messenger-media-manager)** · [**Chrome Web Store**](https://chromewebstore.google.com/detail/messenger-media-manager/adejogjpndbddbpcanefdkgdajmaaekb) ↗  
-    *Custom stickers, GIFs, and local media management for Messenger on PC.*  
-    Built with Manifest V3, strict client-side privacy, local storage caching, and custom drag-and-drop media injection.
+  <table width="100%">
+    <tr>
+      <td valign="top">
+        <h3 align="left">
+          <a href="https://github.com/Oxazite/messenger-media-manager">messenger-media-manager</a>
+        </h3>
+        <p>Custom stickers, GIFs, and local media management for Messenger on PC.</p>
+        <p>
+          <a href="https://chromewebstore.google.com/detail/messenger-media-manager/adejogjpndbddbpcanefdkgdajmaaekb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Live-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Store"/></a>
+          <img src="https://img.shields.io/badge/Privacy-100%25%20Local-8b5cf6?style=flat-square" alt="Privacy"/>
+          <img src="https://img.shields.io/badge/Platform-Manifest%20V3-10b981?style=flat-square" alt="Manifest V3"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <details open>

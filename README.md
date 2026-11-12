@@ -27,7 +27,7 @@ Focusing on **Applied Artificial Intelligence**, **LLM Systems & Reasoning**, an
 ### Featured Projects
 
 - **[Messenger Media Manager](https://github.com/Oxazite/messenger-media-manager)**  
-  *Custom Stickers, GIFs, & Media Manager for Facebook and Messenger (Chrome Web Store)*  
+  *Custom stickers, GIFs, and local media management for Messenger on PC (Chrome Web Store)*  
   Built with Manifest V3, strict CSP compliance, 100% local client-side storage, and custom drag-and-drop media injection.
 
 ---

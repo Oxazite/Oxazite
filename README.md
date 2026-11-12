@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="mailto:nam.nguyenquoc@hcmut.edu.vn"><img src="https://img.shields.io/badge/HCMUT%20Mail-nam.nguyenquoc%40hcmut.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://chromewebstore.google.com/detail/messenger-media-manager/adejogjpndbddbpcanefdkgdajmaaekb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Messenger%20Media%20Manager-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
   <a href="https://github.com/Oxazite"><img src="https://img.shields.io/badge/GitHub-Oxazite-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -75,9 +74,9 @@
         </h3>
         <p>Custom stickers, GIFs, and local media management for Messenger on PC.</p>
         <p>
-          <a href="https://chromewebstore.google.com/detail/messenger-media-manager/adejogjpndbddbpcanefdkgdajmaaekb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Live-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Store"/></a>
-          <img src="https://img.shields.io/badge/Privacy-100%25%20Local-8b5cf6?style=flat-square" alt="Privacy"/>
           <img src="https://img.shields.io/badge/Platform-Manifest%20V3-10b981?style=flat-square" alt="Manifest V3"/>
+          <img src="https://img.shields.io/badge/Privacy-100%25%20Local-8b5cf6?style=flat-square" alt="Privacy"/>
+          <img src="https://img.shields.io/badge/Deployment-Personal%20Tool-blue?style=flat-square" alt="Personal Tool"/>
         </p>
       </td>
     </tr>
